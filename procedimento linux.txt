@@ -1,0 +1,4 @@
+1° - baixar a iso da distribuição do qual você deseja no proprio site
+2° - fazer um pen-drive bootavél usando rufus ou ventoy( pen-drive de no minimo 8gb)
+3° - colocar a iso dentro do pen-drive
+4° - depois é so iniciar a instalação 
